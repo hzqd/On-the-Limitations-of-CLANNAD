@@ -1,2 +1,4 @@
-# On-the-Limitations-of-CLANNAD
-On the Limitations of CLANNAD Animation.
+# On the Limitations of CLANNAD Animation
+## Introduction
+### Structure
+#### src => clannad.md
